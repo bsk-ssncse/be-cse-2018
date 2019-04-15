@@ -37,6 +37,7 @@ using ER model -- Enhanced-ER model.
 #+begin_comment
 No change. Part of first unit in AU-2017
 #+end_comment
+
 {{{unit}}}
 |UNIT II | RELATIONAL MODEL AND SQL | 11 |
 Relational Model: Concepts -- Constraints -- Update operations --
@@ -48,8 +49,8 @@ function -- SQL Renaming -- JOIN and Outer JOINs -- Aggregate
 functions -- Grouping.
 
 #+begin_comment
-Part of first unit in AU-2017. Extended with more titles to provide better
- understanding towards relational model. 
+Part of first unit in AU-2017. Extended with more SQL features to impart more SQL - data manipulation 
+knowledge.
 #+end_comment
 
 {{{unit}}}
@@ -61,8 +62,9 @@ second and third Normal Forms -- Boyce-Codd Normal Forms; FD:
 Inference rules -- Minimal cover; ER-to-relational mapping.
 
 #+begin_comment
-Second unit in AU-2017. Added database triggers,views to provide better
- knowledge towards database programming. 
+Second unit in AU-2017. Added database triggers,views and SQL/PSM to provide better
+ knowledge towards database programming. DB design is treated with maximum level of BCNF and the 
+ higher NFs (4NF and 5NF) are ignored.
 #+end_comment
 
 
@@ -83,7 +85,7 @@ NOSQL Systems and MongoDB -- NOSQL Key -- Value Stores -- Column-
 Based or Wide Column NOSQL Systems -- NOSQL Graph Databases and Neo4j.
 
 #+begin_comment
-Added as new unit to meet recent trends and industry requirements.
+Added as new unit to meet recent trends in database and the need of alternative data model to resolve the issue in data storage in distributed environment.
 #+end_comment
 
 
